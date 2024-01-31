@@ -37,7 +37,7 @@
 	
 <div align="center">
 	
-![Visitor Count](https://profile-counter.glitch.me/{lonewolf-hub}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Ninjacreed}/count.svg)
 
 
   <p><b>Visitor's Count</b></b></p>
@@ -123,7 +123,7 @@ Happy coding! 😄
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ninjacreed&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
 <br>
@@ -131,13 +131,13 @@ Happy coding! 😄
 <div align=center>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lonewolf-hub&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninjacreed&theme=dracula)
 
 </div>
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lonewolf-hub&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Ninjacreed&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <br>
@@ -145,8 +145,8 @@ Happy coding! 😄
 
 
 <p align="center">
-	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=lonewolf-hub&theme=calm&show_icons=true&include_all_commits=false&count_private=false"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf-hub&theme=calm&langs_count=15&layout=compact" />
+	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Ninjacreed&theme=calm&show_icons=true&include_all_commits=false&count_private=false"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninjacreed&theme=calm&langs_count=15&layout=compact" />
 </p>
 <p align="center">
 <!--- trophy (start) -->
@@ -154,3 +154,42 @@ Happy coding! 😄
 <!--- trophy (end) -->
 </p>        
 <!--- stats (end) --->
+
+
+
+
+## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+<br>
+<!--icons and links-->
+<p align="center">
+<a href="(https://www.linkedin.com/in/ankit-kumar-056b0324a/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/kumarankit7480/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+<br> 
+
+---
+
+<div align="center">
+😜<b>Here's a Joke for you:</b>
+	
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+</div>
+
+
+
+<p align="center">
+	
+
+
+</p>
+
+
+Credit: [Ankit Kumar](https://github.com/Ninjacreed)
+
+Last Edited on: 31/01/2024
